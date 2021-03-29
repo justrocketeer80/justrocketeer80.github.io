@@ -1,0 +1,21 @@
+
+body {
+  background-color: #ccffcc
+}
+
+body{
+  font-family: Helvetica,Arial, Sans-serif;
+}
+
+h1{
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  color:red;
+}
+
+body{
+  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-right: 50px;
+  margin-left: 40px;
+}
